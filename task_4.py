@@ -1,6 +1,6 @@
-#Bubble Sort algorithm:
+#Bubble Sort algorithm:::::
 
-"""ef bubble_sort(arr):
+ef bubble_sort(arr):
     # Get the length of the list
     n = len(arr)
     
@@ -29,8 +29,8 @@ arr = [64, 34, 25, 12, 22, 11, 90]
 print("Unsorted array:", arr)
 sorted_arr = bubble_sort(arr)
 print("Sorted array:", sorted_arr)
-"""
-#Selection Sort algorithm:
+
+#Selection Sort algorithm:::
 
 def selection_sort(arr):
     # Traverse through all array elements
